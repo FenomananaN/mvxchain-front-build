@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8a685450.css",
-    "main.js": "/static/js/main.22587ac5.js",
+    "main.js": "/static/js/main.cc58010c.js",
     "static/media/solana.svg": "/static/media/solana.f7837632a5ad85bba24fc14fba06262e.svg",
     "static/media/orange.jpg": "/static/media/orange.4ec0ccf6fb6eb58b1887.jpg",
     "static/media/Manavola.webp": "/static/media/Manavola.b546c1b6e78bdc57aa3b.webp",
@@ -26,10 +26,10 @@
     "static/media/info.svg": "/static/media/info.9569631eaf2d4152f84562533e8c7f3b.svg",
     "static/media/litecoin-ltc-logo.svg": "/static/media/litecoin-ltc-logo.d76270cbdd0c73dd9cb171444fa174d5.svg",
     "main.8a685450.css.map": "/static/css/main.8a685450.css.map",
-    "main.22587ac5.js.map": "/static/js/main.22587ac5.js.map"
+    "main.cc58010c.js.map": "/static/js/main.cc58010c.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.22587ac5.js"
+    "static/js/main.cc58010c.js"
   ]
 }
